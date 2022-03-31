@@ -29,9 +29,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     inkscape:zoom="0.10084285"
-     inkscape:cx="1735.3733"
-     inkscape:cy="342.11646"
+     inkscape:zoom="0.20168571"
+     inkscape:cx="1869.245"
+     inkscape:cy="1157.7419"
      inkscape:window-width="1862"
      inkscape:window-height="1016"
      inkscape:window-x="58"
@@ -337,13 +337,16 @@
        height="566.33179"
        x="-366.26492"
        y="61.477978"
-       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/rect1275b.png"
-       inkscape:export-xdpi="19.993427"
-       inkscape:export-ydpi="19.993427" />
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996" />
     <g
        id="g38665"
        transform="matrix(1.5130368,0,0,1.5130368,-3927.38,-2155.3206)"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.390337;stroke-miterlimit:4;stroke-dasharray:none">
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.390337;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996">
       <g
          id="g31696"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.390337;stroke-miterlimit:4;stroke-dasharray:none">
@@ -14576,9 +14579,9 @@
        id="g20643"
        transform="matrix(1.5222826,0,0,1.5222826,365.03523,466.42028)"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0"
-       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/rect1275b.png"
-       inkscape:export-xdpi="19.993427"
-       inkscape:export-ydpi="19.993427">
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996">
       <g
          id="g20581"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0">
@@ -14756,7 +14759,10 @@
     <g
        id="g106382"
        transform="matrix(0.87367316,-0.08782092,0.08782092,0.87367316,-1051.867,-479.5665)"
-       style="opacity:0.262602;fill:#ffd5d5;filter:url(#filter106402)">
+       style="opacity:0.262602;fill:#ffd5d5;filter:url(#filter106402)"
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996">
       <g
          id="g107602"
          style="opacity:0.670426"
@@ -14788,9 +14794,9 @@
     <g
        id="g23336"
        transform="matrix(0.71535437,0,0,0.71535437,-1939.2516,-53.12778)"
-       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/rect1275b.png"
-       inkscape:export-xdpi="19.993427"
-       inkscape:export-ydpi="19.993427">
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996">
       <g
          id="g1501"
          transform="matrix(4.3341424,0,0,4.3341424,2976.3049,95.400889)"
@@ -15176,9 +15182,9 @@
        x="-330.6709"
        y="480.65314"
        id="text20471"
-       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/rect1275b.png"
-       inkscape:export-xdpi="19.993427"
-       inkscape:export-ydpi="19.993427"><tspan
+       inkscape:export-filename="/home/mrtin/dev/ingcom/intro-ingcom/archivos/ilustraciones/fondo.png"
+       inkscape:export-xdpi="99.589996"
+       inkscape:export-ydpi="99.589996"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:85.5226px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:2.13807"
          x="-330.6709"
