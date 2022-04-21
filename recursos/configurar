@@ -1,0 +1,33 @@
+#!/bin/bash
+
+cat <<'EOF'
+       ___  __   __   __        __   __     __
+| |\ |  |  |__) /  \ |  \ |  | /  ` /  ` | /  \ |\ |     /\     |     /\
+| | \|  |  |  \ \__/ |__/ \__/ \__, \__, | \__/ | \|    /--\    |___ /--\
+ 
+        __   ___         ___  __             ___
+| |\ | / _` |__  |\ | | |__  |__) |  /\     |__  |\ |
+| | \| \__> |___ | \| | |___ |  \ | /--\    |___ | \|
+
+ __   __         __       ___       __     __
+/  ` /  \  |\/| |__) |  |  |   /\  /  ` | /  \ |\ |
+\__, \__/  |  | |    \__/  |  /--\ \__, | \__/ | \|
+
+EOF
+
+if test -d ~/bin/;
+then
+	echo "ya esta instalado"
+else
+
+	echo "Creando directorio para scripts y programas"
+	mkdir ~/bin
+
+	echo "Agregando el directorio a la busqueda de Bash"
+	echo -E "# Introducción a la Ingenieria en Computación 2022" >>~/.bash_profile
+	echo -E "export PATH=\$PATH:~/bin" >>~/.bash_profile
+
+	echo "El archivo .bash_profile quedó:"
+	cat ~/.bash_profile
+	
+fi
