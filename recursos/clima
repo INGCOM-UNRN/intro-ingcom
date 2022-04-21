@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl wttr.in/San+Carlos+de+Bariloche?format=4
