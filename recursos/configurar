@@ -18,6 +18,7 @@ EOF
 if test -d ~/bin/;
 then
 	echo "ya esta instalado"
+	exit 1
 else
 
 	echo "Creando directorio para scripts y programas"
