@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+#Mejoras a futuro, elegir la organización de github para consultar
+#Filtrar por ejercicio
+
+gh repo list alumnos-ingcom --json name,pushedAt,updatedAt | in2csv -f json > status.csv
