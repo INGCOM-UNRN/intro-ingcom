@@ -3,4 +3,4 @@
 #Mejoras a futuro, elegir la organización de github para consultar
 #Filtrar por ejercicio
 
-gh repo list alumnos-ingcom --json name,pushedAt,updatedAt | in2csv -f json > status.csv
+gh repo list alumnos-ingcom  --limit=500 --json name,pushedAt,updatedAt | in2csv -f json > status-$(date +%F).csv
