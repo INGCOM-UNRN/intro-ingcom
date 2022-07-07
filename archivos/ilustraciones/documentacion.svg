@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="documentación.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.394433"
+     inkscape:cx="1413.4213"
+     inkscape:cy="1153.5546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#8fd285;fill-opacity:1;stroke:#000000;stroke-width:29.5223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path846"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="1030.8123"
+       sodipodi:cy="360.33612"
+       sodipodi:r1="286.23468"
+       sodipodi:r2="143.11732"
+       sodipodi:arg1="2.0943951"
+       sodipodi:arg2="3.1415927"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 887.69492,608.22263 10e-6,-247.88652 -10e-6,-247.88649 214.67598,123.94326 214.676,123.94324 -214.676,123.94324 z"
+       inkscape:transform-center-x="22.706911"
+       inkscape:transform-center-y="11.416029"
+       transform="matrix(0,-1.2347351,1.2347351,0,620.17474,1852.8709)"
+       inkscape:export-filename="C:\Users\tincho\path846.png"
+       inkscape:export-xdpi="164.2"
+       inkscape:export-ydpi="164.2" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:91.0768px;line-height:1.25;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';stroke-width:2.27693"
+       x="1062.5657"
+       y="152.52579"
+       id="text5377"
+       inkscape:export-filename="C:\Users\tincho\path846.png"
+       inkscape:export-xdpi="164.2"
+       inkscape:export-ydpi="164.2"><tspan
+         sodipodi:role="line"
+         id="tspan5375"
+         x="1062.5657"
+         y="152.52579"
+         style="text-align:center;text-anchor:middle;stroke-width:2.27693">qué</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:91.0768px;line-height:1.25;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';stroke-width:2.27693"
+       x="1539.6742"
+       y="855.24664"
+       id="text8967"
+       inkscape:export-filename="C:\Users\tincho\path846.png"
+       inkscape:export-xdpi="164.2"
+       inkscape:export-ydpi="164.2"><tspan
+         sodipodi:role="line"
+         id="tspan8965"
+         x="1539.6742"
+         y="855.24664"
+         style="text-align:center;text-anchor:middle;stroke-width:2.27693">por qué</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:91.0768px;line-height:1.25;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';stroke-width:2.27693"
+       x="621.43231"
+       y="862.44171"
+       id="text13361"
+       inkscape:export-filename="C:\Users\tincho\path846.png"
+       inkscape:export-xdpi="164.2"
+       inkscape:export-ydpi="164.2"><tspan
+         sodipodi:role="line"
+         id="tspan13359"
+         x="621.43231"
+         y="862.44171"
+         style="text-align:center;text-anchor:middle;stroke-width:2.27693">cómo</tspan></text>
+  </g>
+</svg>

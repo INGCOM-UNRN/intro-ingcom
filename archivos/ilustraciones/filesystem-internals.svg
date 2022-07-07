@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="filesystem-internals.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5043452"
+     inkscape:cx="396.85039"
+     inkscape:cy="517.83326"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g21899">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.557623;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect21488"
+         width="143.2775"
+         height="74.028244"
+         x="-35.368698"
+         y="-38.179455" />
+      <g
+         id="g21301"
+         transform="translate(-66.920847,-9.4124101)">
+        <g
+           id="g18780"
+           transform="translate(-25.507573,-14.538592)">
+          <g
+             id="g7303"
+             transform="matrix(0.64285302,0,0,0.64285302,7.3561565,-52.22886)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <rect
+               style="fill:#cccccc;stroke:#000000;stroke-width:1.17998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect6872"
+               width="35.439724"
+               height="13.820024"
+               x="151.42003"
+               y="70.290062" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+               x="159.70488"
+               y="80.988892"
+               id="text6959"><tspan
+                 sodipodi:role="line"
+                 id="tspan6957"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+                 x="159.70488"
+                 y="80.988892">dato</tspan></text>
+          </g>
+          <g
+             id="g7311"
+             transform="matrix(0.64285302,0,0,0.64285302,30.138693,-52.22886)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <rect
+               style="fill:#cccccc;stroke:#000000;stroke-width:1.17998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect7305"
+               width="35.439724"
+               height="13.820024"
+               x="151.42003"
+               y="70.290062" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+               x="159.70488"
+               y="80.988892"
+               id="text7309"><tspan
+                 sodipodi:role="line"
+                 id="tspan7307"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+                 x="159.70488"
+                 y="80.988892">dato</tspan></text>
+          </g>
+          <rect
+             style="fill:#cccccc;stroke:#000000;stroke-width:0.758554;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect7432"
+             width="22.782534"
+             height="8.884244"
+             x="173.04459"
+             y="-7.0426831" />
+          <rect
+             style="fill:#cccccc;stroke:#000000;stroke-width:0.758554;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect7313"
+             width="22.782534"
+             height="8.884244"
+             x="150.26205"
+             y="-7.0426831" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="155.588"
+             y="-0.16491459"
+             id="text7317"><tspan
+               sodipodi:role="line"
+               id="tspan7315"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="155.588"
+               y="-0.16491459">dato</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="181.92876"
+             y="-2.1277173"
+             id="text7328"><tspan
+               sodipodi:role="line"
+               id="tspan7326"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="181.92876"
+               y="-2.1277173">...</tspan></text>
+        </g>
+        <g
+           id="g8230"
+           transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,204.89598,-66.507161)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path7467"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path7850"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g18744"
+           transform="translate(-17.713592,-41.086571)">
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect846"
+             width="29.638695"
+             height="8.9824657"
+             x="53.696564"
+             y="70.258812" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="55.990658"
+             y="76.658432"
+             id="text2140"><tspan
+               sodipodi:role="line"
+               id="tspan2138"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="55.990658"
+               y="76.658432">permisos</tspan></text>
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect6338"
+             width="62.085541"
+             height="8.9754448"
+             x="83.335258"
+             y="70.265831" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="86.31694"
+             y="77.199425"
+             id="text6342"><tspan
+               sodipodi:role="line"
+               id="tspan6340"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="86.31694"
+               y="77.199425">direcciones de datos</tspan></text>
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect8490"
+             width="91.718964"
+             height="8.8640137"
+             x="53.696865"
+             y="61.394508" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="99.522331"
+             y="67.852318"
+             id="text8592"><tspan
+               sodipodi:role="line"
+               id="tspan8590"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="99.522331"
+               y="67.852318">inodo</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g21710"
+       transform="translate(-66.603108,-34.48246)">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.557623;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect21686"
+         width="143.2775"
+         height="74.028244"
+         x="226.21693"
+         y="-16.923143" />
+      <g
+         id="g18946"
+         transform="translate(197.38143,-74.601992)">
+        <g
+           id="g18733"
+           transform="translate(9.2110681,-6.8492557)">
+          <rect
+             style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect14405"
+             width="38.473743"
+             height="9.0998602"
+             x="32.021717"
+             y="122.99012" />
+          <rect
+             style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect15503"
+             width="38.473743"
+             height="9.0998602"
+             x="70.495461"
+             y="122.99012" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="51.176945"
+             y="129.44844"
+             id="text14403"><tspan
+               sodipodi:role="line"
+               id="tspan14401"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="51.176945"
+               y="129.44844">nombre</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="89.650688"
+             y="129.44844"
+             id="text17219"><tspan
+               sodipodi:role="line"
+               id="tspan17217"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="89.650688"
+               y="129.44844">#inodo</tspan></text>
+        </g>
+        <g
+           id="g18469"
+           transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,190.89144,26.790465)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path18465"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path18467"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g18764"
+           transform="translate(14.294931,2.7510111)">
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18746"
+             width="29.638695"
+             height="8.9824657"
+             x="53.696564"
+             y="70.258812" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="55.990658"
+             y="76.658432"
+             id="text18750"><tspan
+               sodipodi:role="line"
+               id="tspan18748"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="55.990658"
+               y="76.658432">permisos</tspan></text>
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18752"
+             width="62.085541"
+             height="8.9754448"
+             x="83.335258"
+             y="70.265831" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="86.31694"
+             y="77.199425"
+             id="text18756"><tspan
+               sodipodi:role="line"
+               id="tspan18754"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="86.31694"
+               y="77.199425">direcciones de datos</tspan></text>
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18758"
+             width="91.718964"
+             height="8.8640137"
+             x="53.696865"
+             y="61.394508" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="99.522331"
+             y="67.852318"
+             id="text18762"><tspan
+               sodipodi:role="line"
+               id="tspan18760"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="99.522331"
+               y="67.852318">inodo</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g22065">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:1.07392;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect21814"
+         width="184.37303"
+         height="213.37517"
+         x="18.654236"
+         y="174.22841" />
+      <g
+         id="g21990">
+        <g
+           id="g18519"
+           transform="translate(-8.0162568,-58.185001)">
+          <g
+             id="g19072"
+             transform="translate(6.3462033,97.865136)">
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect19060"
+               width="38.473743"
+               height="9.0998602"
+               x="28.242817"
+               y="146.47685" />
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect19062"
+               width="38.473743"
+               height="9.0998602"
+               x="66.71656"
+               y="146.47685" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="47.398048"
+               y="152.93517"
+               id="text19066"><tspan
+                 sodipodi:role="line"
+                 id="tspan19064"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="47.398048"
+                 y="152.93517">nombre</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="85.871788"
+               y="152.93517"
+               id="text19070"><tspan
+                 sodipodi:role="line"
+                 id="tspan19068"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="85.871788"
+                 y="152.93517">#inodo</tspan></text>
+          </g>
+        </g>
+        <rect
+           style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect19040"
+           width="29.638695"
+           height="8.9824657"
+           x="98.081856"
+           y="214.04749" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+           x="100.37595"
+           y="220.4471"
+           id="text19044"><tspan
+             sodipodi:role="line"
+             id="tspan19042"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="100.37595"
+             y="220.4471">permisos</tspan></text>
+        <rect
+           style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect19046"
+           width="62.085541"
+           height="8.9754448"
+           x="127.72054"
+           y="214.0545" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+           x="130.70222"
+           y="220.9881"
+           id="text19050"><tspan
+             sodipodi:role="line"
+             id="tspan19048"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="130.70222"
+             y="220.9881">direcciones de datos</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect19052"
+           width="91.718964"
+           height="8.8640137"
+           x="98.086815"
+           y="205.18318" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+           x="143.90761"
+           y="211.64099"
+           id="text19056"><tspan
+             sodipodi:role="line"
+             id="tspan19054"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="143.90761"
+             y="211.64099">inodo</tspan></text>
+        <g
+           id="g19078"
+           transform="rotate(120,39.289471,167.44298)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path19074"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path19076"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <rect
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect19161"
+           width="91.718964"
+           height="8.8640137"
+           x="98.082153"
+           y="256.2868" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+           x="143.90761"
+           y="262.74463"
+           id="text19165"><tspan
+             sodipodi:role="line"
+             id="tspan19163"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="143.90761"
+             y="262.74463">&quot;/ruta/a/algun/archivo&quot;</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect19173"
+           width="91.718964"
+           height="8.8640137"
+           x="98.086815"
+           y="265.15082" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+           x="143.90761"
+           y="271.60864"
+           id="text19177"><tspan
+             sodipodi:role="line"
+             id="tspan19175"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="143.90761"
+             y="271.60864">datos</tspan></text>
+        <g
+           id="g20981"
+           transform="rotate(180,98.037972,175.40748)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 17.59515"
+             id="path20977"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path20979"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g21172"
+           transform="translate(-8.0162568,57.779984)">
+          <g
+             id="g21170"
+             transform="translate(6.3462033,97.865136)">
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect21158"
+               width="38.473743"
+               height="9.0998602"
+               x="28.242817"
+               y="146.47685" />
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect21160"
+               width="38.473743"
+               height="9.0998602"
+               x="66.71656"
+               y="146.47685" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="47.398048"
+               y="152.93517"
+               id="text21164"><tspan
+                 sodipodi:role="line"
+                 id="tspan21162"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="47.398048"
+                 y="152.93517">nombre</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="85.871788"
+               y="152.93517"
+               id="text21168"><tspan
+                 sodipodi:role="line"
+                 id="tspan21166"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="85.871788"
+                 y="152.93517">#inodo</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g21178"
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,-48.423591,297.91277)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path21174"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path21176"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g21213"
+           transform="translate(0,-10.391974)">
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect21180"
+             width="29.638695"
+             height="8.9824657"
+             x="98.081856"
+             y="343.47479" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="100.37595"
+             y="349.87442"
+             id="text21184"><tspan
+               sodipodi:role="line"
+               id="tspan21182"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="100.37595"
+               y="349.87442">permisos</tspan></text>
+          <rect
+             style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect21186"
+             width="62.085541"
+             height="8.9754448"
+             x="127.72054"
+             y="343.48181" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="130.70222"
+             y="350.41541"
+             id="text21190"><tspan
+               sodipodi:role="line"
+               id="tspan21188"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="130.70222"
+               y="350.41541">direcciones de datos</tspan></text>
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect21192"
+             width="91.718964"
+             height="8.8640137"
+             x="98.082153"
+             y="334.6105" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="143.90761"
+             y="341.0683"
+             id="text21196"><tspan
+               sodipodi:role="line"
+               id="tspan21194"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="143.90761"
+               y="341.0683">inodo</tspan></text>
+        </g>
+        <g
+           id="g21202"
+           transform="rotate(120,5.3360056,226.2521)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path21198"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path21200"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g21271"
+           transform="translate(-73.010245,376.7109)">
+          <g
+             id="g21249"
+             transform="matrix(0.64285302,0,0,0.64285302,7.3561565,-52.22886)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <rect
+               style="fill:#cccccc;stroke:#000000;stroke-width:1.17998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect21243"
+               width="35.439724"
+               height="13.820024"
+               x="151.42003"
+               y="70.290062" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+               x="159.70488"
+               y="80.988892"
+               id="text21247"><tspan
+                 sodipodi:role="line"
+                 id="tspan21245"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+                 x="159.70488"
+                 y="80.988892">dato</tspan></text>
+          </g>
+          <g
+             id="g21257"
+             transform="matrix(0.64285302,0,0,0.64285302,30.138693,-52.22886)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <rect
+               style="fill:#cccccc;stroke:#000000;stroke-width:1.17998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect21251"
+               width="35.439724"
+               height="13.820024"
+               x="151.42003"
+               y="70.290062" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+               x="159.70488"
+               y="80.988892"
+               id="text21255"><tspan
+                 sodipodi:role="line"
+                 id="tspan21253"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+                 x="159.70488"
+                 y="80.988892">dato</tspan></text>
+          </g>
+          <rect
+             style="fill:#cccccc;stroke:#000000;stroke-width:0.758554;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect21259"
+             width="22.782534"
+             height="8.884244"
+             x="173.04459"
+             y="-7.0426831" />
+          <rect
+             style="fill:#cccccc;stroke:#000000;stroke-width:0.758554;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect21261"
+             width="22.782534"
+             height="8.884244"
+             x="150.26205"
+             y="-7.0426831" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="155.588"
+             y="-0.16491459"
+             id="text21265"><tspan
+               sodipodi:role="line"
+               id="tspan21263"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="155.588"
+               y="-0.16491459">dato</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+             x="181.92876"
+             y="-2.1277173"
+             id="text21269"><tspan
+               sodipodi:role="line"
+               id="tspan21267"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="181.92876"
+               y="-2.1277173">...</tspan></text>
+        </g>
+        <g
+           id="g21307"
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,-11.579319,365.93296)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 53.680345,104.00361 v 25.38913"
+             id="path21303"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+             id="path21305"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g21867">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.685637;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect21712"
+         width="185.79012"
+         height="86.309669"
+         x="-1.3834256"
+         y="66.577087" />
+      <g
+         id="g19150"
+         transform="translate(-18.347844,-70.781909)">
+        <g
+           id="g19117">
+          <g
+             id="g18527"
+             transform="translate(-0.70854378,12.314994)">
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18471"
+               width="38.473743"
+               height="9.0998602"
+               x="28.951361"
+               y="193.13596" />
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18473"
+               width="38.473743"
+               height="9.0998602"
+               x="67.425102"
+               y="193.13596" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="48.10659"
+               y="199.59427"
+               id="text18477"><tspan
+                 sodipodi:role="line"
+                 id="tspan18475"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="48.10659"
+                 y="199.59427">nombre</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="86.58033"
+               y="199.59427"
+               id="text18481"><tspan
+                 sodipodi:role="line"
+                 id="tspan18479"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="86.58033"
+                 y="199.59427">#inodo</tspan></text>
+          </g>
+          <g
+             id="g18538"
+             transform="translate(-17.713592,28.294356)">
+            <rect
+               style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18483"
+               width="29.638695"
+               height="8.9824657"
+               x="117.4655"
+               y="152.68607" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="119.75959"
+               y="159.08568"
+               id="text18487"><tspan
+                 sodipodi:role="line"
+                 id="tspan18485"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="119.75959"
+                 y="159.08568">permisos</tspan></text>
+            <rect
+               style="fill:#ffb380;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18489"
+               width="62.085541"
+               height="8.9754448"
+               x="147.10419"
+               y="152.69308" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="150.08588"
+               y="159.62668"
+               id="text18493"><tspan
+                 sodipodi:role="line"
+                 id="tspan18491"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="150.08588"
+                 y="159.62668">direcciones de datos</tspan></text>
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.600606;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18495"
+               width="91.718964"
+               height="8.8640137"
+               x="117.4658"
+               y="143.82176" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="163.29126"
+               y="150.27957"
+               id="text18499"><tspan
+                 sodipodi:role="line"
+                 id="tspan18497"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="163.29126"
+                 y="150.27957">inodo</tspan></text>
+          </g>
+          <g
+             id="g19038">
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18501"
+               width="38.473743"
+               height="9.0998602"
+               x="28.242817"
+               y="146.47685" />
+            <rect
+               style="fill:#aaffcc;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect18503"
+               width="38.473743"
+               height="9.0998602"
+               x="66.71656"
+               y="146.47685" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="47.398048"
+               y="152.93517"
+               id="text18507"><tspan
+                 sodipodi:role="line"
+                 id="tspan18505"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="47.398048"
+                 y="152.93517">nombre</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.80351px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+               x="85.871788"
+               y="152.93517"
+               id="text18511"><tspan
+                 sodipodi:role="line"
+                 id="tspan18509"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.80351px;font-family:Fabrikat;-inkscape-font-specification:'Fabrikat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.170088;stroke-linecap:butt;stroke-linejoin:round"
+                 x="85.871788"
+                 y="152.93517">#inodo</tspan></text>
+          </g>
+          <g
+             id="g18544"
+             transform="matrix(-0.5,-0.8660254,-0.8660254,0.5,205.61413,183.90301)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 53.680345,104.00361 v 25.38913"
+               id="path18540"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+               d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+               id="path18542"
+               sodipodi:nodetypes="cccc" />
+          </g>
+          <g
+             id="g18725"
+             transform="rotate(120,51.579166,148.08501)"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 53.680345,104.00361 v 25.38913"
+               id="path18721"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.0828286px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+               d="m 51.424269,105.4814 2.156715,-5.623173 2.353449,5.623173 z"
+               id="path18723"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
