@@ -6,7 +6,11 @@
    version="1.1"
    id="svg8"
 <<<<<<< HEAD
+<<<<<<< HEAD
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+=======
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+>>>>>>> 3277beb (adiciones al logo de la carrera)
 =======
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
 >>>>>>> 3277beb (adiciones al logo de la carrera)
@@ -51,9 +55,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
 <<<<<<< HEAD
+<<<<<<< HEAD
      inkscape:zoom="1"
      inkscape:cx="577.99999"
      inkscape:cy="-1.5"
+=======
+     inkscape:zoom="0.3535534"
+     inkscape:cx="-267.28636"
+     inkscape:cy="1671.6004"
+>>>>>>> 3277beb (adiciones al logo de la carrera)
 =======
      inkscape:zoom="0.3535534"
      inkscape:cx="-267.28636"
@@ -65,9 +75,15 @@
      showgrid="false"
      inkscape:window-width="1920"
 <<<<<<< HEAD
+<<<<<<< HEAD
      inkscape:window-height="990"
      inkscape:window-x="0"
      inkscape:window-y="28"
+=======
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+>>>>>>> 3277beb (adiciones al logo de la carrera)
 =======
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -81,9 +97,13 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
 <<<<<<< HEAD
+<<<<<<< HEAD
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
+=======
+     inkscape:pagecheckerboard="0" />
+>>>>>>> 3277beb (adiciones al logo de la carrera)
 =======
      inkscape:pagecheckerboard="0" />
 >>>>>>> 3277beb (adiciones al logo de la carrera)
@@ -1020,11 +1040,14 @@
     <g
        id="g1796"
 <<<<<<< HEAD
+<<<<<<< HEAD
        inkscape:export-filename="/home/mrtin/IngCOM.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"
        transform="translate(-38.698507,-17.273037)">
 =======
+=======
+>>>>>>> 3277beb (adiciones al logo de la carrera)
        inkscape:export-filename="C:\Users\tincho\dev\ingcom-logo.png"
        inkscape:export-xdpi="1000"
        inkscape:export-ydpi="1000"
